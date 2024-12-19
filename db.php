@@ -1,8 +1,8 @@
 
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "kirkpagaspas";
+$password = "kirkpagaspas";
 $dbname = "empowering_vet_clinic"; // Change this if your database name is different
 
 try {
